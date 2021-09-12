@@ -10,6 +10,7 @@ En este curso podemos ver lo siguiente:
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del prossor
 - Creado por el equipo de Platzi.
+- Inluye ejemploe en Windows, Linux y Mac.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el [curso en Platzi.](https://platzi.com/clases/git-github/ "curso en Platzi.")
 
